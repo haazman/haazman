@@ -43,7 +43,7 @@ and developer tooling for teams of all sizes.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haazman&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haazman&theme=dark)](https://git.io/streak-stats)
 
 ---
 
