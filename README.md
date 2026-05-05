@@ -45,8 +45,5 @@ and developer tooling for teams of all sizes.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=haazman&theme=dark)](https://git.io/streak-stats)
 
----
 
-If you'd like, I can customize this further with your real name, project links,
-and a short bio. Want me to add badges, a GIF, or a resume link?
 
